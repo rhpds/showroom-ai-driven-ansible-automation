@@ -1,6 +1,6 @@
 ---
 site:
-  title: LB2961 - Introduction to AI-Driven Ansible Automation
+  title: Introduction to AI-Driven Ansible Automation
   start_page: modules::index.adoc
 
 content:
