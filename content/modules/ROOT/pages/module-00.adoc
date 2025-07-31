@@ -83,7 +83,7 @@ Think of Mattermost as a stand-in for ServiceNow in this demonstration.
 | ansibleadmin@ansible.com
 
 | Password
-| ansible123!
+| `{ssh_password}`
 |===
 
 	1.	Open mattermost using the above details

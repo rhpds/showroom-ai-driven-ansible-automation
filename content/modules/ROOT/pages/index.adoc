@@ -129,7 +129,7 @@ Password: `{ssh_password}`
 | Mattermost
 | http://service1.{subdomain_base}:{mattermost_port}[Mattermost,window=_blank]
 | Username: ansibleadmin@ansible.com
-Password: ansible123!
+Password: `{ssh_password}`
 |===
 
 == What's Next?
